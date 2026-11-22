@@ -256,13 +256,13 @@ gabriel@lima-os:~$ _
 <a href="https://github.com/Lim4xz">
   <img src="https://img.shields.io/badge/GitHub-Lim4xz-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00F0FF" />
 </a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/gabriel-dev1/">
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel_Lima-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=7B2FFF" />
 </a>
-<a href="mailto:SEU-EMAIL@exemplo.com">
+<a href="gabriel29lima@icloud.com">
   <img src="https://img.shields.io/badge/E--mail-Contato-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&color=FF00C8" />
 </a>
-<a href="https://www.instagram.com/SEU-INSTAGRAM">
+<a href="https://www.instagram.com/lim4zl__/">
   <img src="https://img.shields.io/badge/Instagram-Siga-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=00F0FF" />
 </a>
 <a href="https://wa.me/55SEUNUMERO">
